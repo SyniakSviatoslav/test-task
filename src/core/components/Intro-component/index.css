@@ -1,0 +1,25 @@
+.introButton {
+    border: none;
+    width: 200px;
+    border-radius: 30px;
+    padding: 20px;
+    font-size: 1.6em;
+    font-family: 'Bakbak One', cursive;
+    color: white;
+    background-color:  rgb(115, 194, 180);
+    
+}
+
+.introButton:hover{
+    color: rgb(115, 194, 180);
+    background-color:  white;
+}
+
+.introMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
