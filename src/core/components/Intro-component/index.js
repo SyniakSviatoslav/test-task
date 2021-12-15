@@ -38,10 +38,7 @@ class IntroComponent extends React.Component {
                 <div className="text-container">
                  
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore et dolore magna aliqua se. Ut
-                    enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                    nisi ut aliquip ex ea commodo consequat.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit
                   </p>
                 </div>
               </div>
@@ -53,10 +50,7 @@ class IntroComponent extends React.Component {
                 <div className="text-container">
                     <NavLink to={signUpPath}> <button className="introButton"> Sign Up</button></NavLink>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore et dolore magna aliqua se. Ut
-                    enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                    nisi ut aliquip ex ea commodo consequat.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit
                   </p>
                 </div>
               </div>
@@ -68,10 +62,7 @@ class IntroComponent extends React.Component {
                 <div className="text-container">
                     <NavLink to={homePath}><button className="introButton"> Browse</button></NavLink>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore et dolore magna aliqua se. Ut
-                    enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                    nisi ut aliquip ex ea commodo consequat.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit
                   </p>
                 </div>
               </div>
